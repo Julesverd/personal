@@ -36,7 +36,7 @@ const Sidebar = () => {
         </NavLink>
         <NavLink
           exact="true"
-          activeclassname="/active"
+          activeclassname="active"
           className="portfolio-link"
           to="/portfolio"
         >
