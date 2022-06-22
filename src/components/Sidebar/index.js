@@ -64,7 +64,7 @@ const Sidebar = () => {
 
         <li>
           <a
-            href="hhttps://www.facebook.com/julesverd/"
+            href="https://www.facebook.com/julesverd/"
             target="_blank"
             rel="noreferrer"
           >
