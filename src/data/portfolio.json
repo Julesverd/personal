@@ -5,25 +5,8 @@
             "title": "Pokedex",
             "description": "Pokemon Pokedex API Project",
             "url": "https://jv-pokedex.netlify.app/"
-        },
-        {
-            "cover": "",
-            "title": "",
-            "description": "",
-            "url": ""
-        },
-        {
-            "cover": "",
-            "title": "",
-            "description": "",
-            "url": ""
-        },
-        {
-            "cover": "",
-            "title": "",
-            "description": "",
-            "url": ""
         }
+    
         
     ]
 }
