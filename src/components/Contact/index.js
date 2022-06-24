@@ -25,7 +25,7 @@ const Contact = () => {
         'gmail',
         'template_l8ta48g',
         form.current,
-        'jKjkaXvRBBlO49FlAMH0S'
+        'NF2BPldxWCwFBJ3Va'
         
       )
       .then(
