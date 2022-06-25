@@ -1,6 +1,5 @@
 import './index.scss'
 import Logo from '../../assets/images/pokedex.png'
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
