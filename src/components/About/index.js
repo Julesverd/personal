@@ -33,12 +33,9 @@ const About = () => {
             />
           </h1>
           <p>
-            I am a driven individual with the ability to learn quickly, work well under pressure, 
-            in a fast paced environment and to maintain a high level of efficiency when handling 
-            multiple projects simultaneously or in a changing environment; while maintaining attention to detail.
-          </p>
-          <p align="LEFT">
-            I'm quiet meticulous, naturally curious, and perpetually working on
+            I am a driven individual with the ability to learn quickly and work well under pressure, espcially 
+            in a fast paced environment. I strive to maintain a high level of efficiency while simultaneously handling 
+            multiple projects.  None the less, in constantly changing environemnts, I'll be perpetually challenging myself to work on
             improving my skills one design problem at a time.
           </p>
           <p>
