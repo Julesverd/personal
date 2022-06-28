@@ -5,7 +5,17 @@
             "title": "Pokedex",
             "description": "Pokemon Pokedex API Project",
             "url": "https://jv-pokedex.netlify.app/"
+        },
+        {
+            "cover": "",
+            "title": "Simple Calculator",
+            "description": "Simple Calculator",
+            "url": "https://verd-calculator.netlify.app/"
         }
+
+        
+
+        
     
         
     ]
