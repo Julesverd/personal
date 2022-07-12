@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Routes } from 'react-router-dom'
+import { Routes, Route } from "react-router-dom";
 import Home from './components/Home'
 import About from './components/About'
 import Contact from './components/Contact'
@@ -13,9 +13,9 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Layout />} >
           <Route index element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/portfolio" element={<Portfolio />} />
+          <Route exact path="/about" element={<About />} />
+          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/portfolio" element={<Portfolio />} />
         </Route>
       </Routes>
     </>
