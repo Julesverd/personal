@@ -33,13 +33,13 @@ const About = () => {
             />
           </h1>
           <p>
-            I am a driven individual with the ability to learn quickly and work well under pressure, espcially 
-            in a fast paced environment. I strive to maintain a high level of efficiency while simultaneously handling 
-            multiple projects.  None the less, in constantly changing environemnts, I'll be perpetually challenging myself to work on
-            improving my skills one design problem at a time.
+          Customer-focused professional with superior communication skills and expertise in various technical platforms. 
+          Understands and meets both client and employer needs. Dedicated individual with history of meeting company goals
+          utilizing consistent and organized practices. Skilled in working under pressure and adapting to new situations and 
+          challenges to best enhance the organizational brand.
           </p>
           <p>
-            I'm proactive and adaptive individual with a strong desire for a challenging role in the Front-End developing with a reputable organization.
+            I'm proactive and adaptive individual with a strong desire for a challenging role in the Software Engineer with a reputable organization.
           </p>
         </div>
 

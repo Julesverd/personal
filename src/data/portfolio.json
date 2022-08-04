@@ -1,7 +1,7 @@
 {
     "portfolio": [
         {
-            "cover": "/images/pokedex.png",
+            "cover": "",
             "title": "Pokedex",
             "description": "Pokemon Pokedex API Project",
             "url": "https://jv-pokedex.netlify.app/"
