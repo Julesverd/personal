@@ -11,7 +11,14 @@
             "title": "Simple Calculator",
             "description": "Simple Calculator",
             "url": "https://verd-calculator.netlify.app/"
+        },
+        {
+            "cover": "",
+            "title": "Verd Ecommerce",
+            "description": "Modern Full Stack Ecommerce React Application with Sanity",
+            "url": "https://verd-ecommerce.vercel.app/"
         }
+
 
         
 
