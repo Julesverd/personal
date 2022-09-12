@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from "react";
-import Loader from "react-loaders";
+import { useEffect, useState } from 'react'
 import AnimatedLetters from "../AnimatedLetters";
 import "./index.scss";
 import portfolioData from '../../data/portfolio.json';
+
 
 const Portfolio = () => { 
     const [letterClass, setLetterClass] = useState('text-animate');
@@ -59,7 +59,7 @@ const Portfolio = () => {
                 </h1>
                 <div>{renderPortfolio(portfolioData.portfolio)}</div>
             </div>
-            <Loader type="pacman" />
+            
         </>
     );
 }

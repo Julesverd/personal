@@ -13,3 +13,7 @@ body {
   display: block;
 }
 
+@media  and (max-width: 768px) {
+  width: 100%;
+  
+}

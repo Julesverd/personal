@@ -1,29 +1,29 @@
 {
     "portfolio": [
         {
-            "cover": "/images/pokedex.png",
+            "cover": "/portfolio/cover/JvPokedex.png",
             "title": "Pokedex",
             "description": "Pokemon Pokedex API Project",
             "url": "https://jv-pokedex.netlify.app/"
         },
         {
-            "cover": "",
-            "title": "",
-            "description": "",
-            "url": ""
+            "cover": "/portfolio/cover/calculator.png",
+            "title": "Simple Calculator",
+            "description": "Simple Calculator",
+            "url": "https://verd-calculator.netlify.app/"
         },
         {
-            "cover": "",
-            "title": "",
-            "description": "",
-            "url": ""
-        },
-        {
-            "cover": "",
-            "title": "",
-            "description": "",
-            "url": ""
+            "cover": "/portfolio/cover/ecommerce.png",
+            "title": "Verd Ecommerce",
+            "description": "Modern Full Stack Ecommerce React Application with Sanity",
+            "url": "https://verd-ecommerce.vercel.app/"
         }
+
+
+        
+
+        
+    
         
     ]
 }

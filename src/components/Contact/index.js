@@ -1,10 +1,11 @@
 import { useEffect, useState } from 'react'
-import Loader from 'react-loaders'
+
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { useRef } from 'react'
 import emailjs from '@emailjs/browser'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
+
 
 const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
@@ -21,18 +22,20 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        'gmail',
-        'template_YeJhZkgb',
+        'service_001zy6s',
+        'template_l8ta48g',
         form.current,
-        'your-token'
+        'NF2BPldxWCwFBJ3Va'
+        
       )
       .then(
         () => {
           alert('Message successfully sent!')
           window.location.reload(false)
         },
-        () => {
-          alert('Failed to send the message, please try again')
+        (error) => {
+          alert('Failed to send the message, please try again');
+          console.log('Failed', error);
         }
       )
   }
@@ -107,7 +110,7 @@ const Contact = () => {
           </MapContainer>
         </div>
       </div>
-      <Loader type="pacman" />
+      
     </>
   )
 }
