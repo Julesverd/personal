@@ -33,16 +33,17 @@ const About = () => {
             />
           </h1>
           <p>
-            I am a driven individual with the ability to learn quickly, work well under pressure, 
-            in a fast paced environment and to maintain a high level of efficiency when handling 
-            multiple projects simultaneously or in a changing environment; while maintaining attention to detail.
+               A motivated self-learning developer looking to start my career as a Software Engineer. With my
+              passion and desire for learning, I am applying for an entry level position as a Software Engineer within
+              an environment where I can strengthen the skills that I have learned and continue to gain valuable
+              experience. By challenging myself, I aim to use my talents to contribute to the organization.
+
           </p>
           <p align="LEFT">
-            I'm quiet meticulous, naturally curious, and perpetually working on
-            improving my skills one design problem at a time.
+          
           </p>
           <p>
-            I'm proactive and adaptive individual with a strong desire for a challenging role in the Front-End developing with a reputable organization.
+           
           </p>
         </div>
 
